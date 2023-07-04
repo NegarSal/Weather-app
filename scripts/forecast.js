@@ -13,7 +13,6 @@ const getWeather = async (id) =>{
 
 }; 
 
-
 //get city information
 const getCity = async (city) => {
 
